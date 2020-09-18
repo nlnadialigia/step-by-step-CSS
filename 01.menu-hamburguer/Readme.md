@@ -1,5 +1,6 @@
 <p align="center">
   <img src="../images/menu-hamburguer.png" width="500" heigth="300">
+  <img src="../images/menu-hamburguer.gif" width="300">
 </p>
 
 
