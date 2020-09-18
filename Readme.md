@@ -31,16 +31,13 @@ ___
 Repositório dedicado a guardar os mini-projetos realizados no estudo das diversas propriedades do CSS.
 
 <br>
-<br>
 
 ## :interrobang: Projetos
 
-[Menu hamburguer](01.menu-hamburguer)
-
+[Menu hamburguer](01.menu-hamburguer)<br>
+[Transform Property](02.transform-property)<br>
 
 <br>
-<br>
-
 
 ## :rocket: Tecnologias Utilizadas 
 
@@ -48,8 +45,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - HTML5
 - CSS3
-- Javascript
-<br>
 <br>
 
 ## :link: Como contribuir 

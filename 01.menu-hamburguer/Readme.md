@@ -29,8 +29,6 @@ ___
 
 Projeto baseado no Tutorial [Criando um ícone menu hamburguer animado - CSS puro](https://youtu.be/IGz4BI-aO_8), do desenvolvedor Frontend [William Justen](https://willianjusten.com.br/cursos/).
 
-
-<br>
 <br>
 
 ## :pushpin: Dica do Dia!
@@ -57,11 +55,7 @@ Resultado:
   <img src="../images/exemplo-after.png">
 </p>
 
-
-
 <br>
-<br>
-
 
 ## :rocket: Tecnologias Utilizadas 
 
