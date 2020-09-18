@@ -35,7 +35,7 @@ Repositório dedicado a guardar os mini-projetos realizados no estudo das divers
 
 ## :interrobang: Projetos
 
-[Menu hamburguer](01.menu-hamburguer/Readme)
+[Menu hamburguer](01.menu-hamburguer/Readme.md)
 
 
 <br>
