@@ -48,7 +48,7 @@ O primeiro passo é selecionar a qual div o pseudo-elemento irá se relacionar e
 Utiliza-se a propriedade *content* para indicar qual conteúdo dinamico que será inserido. Neste exemplo, adicionaremos uma caixa vermelha acima de uma div que já existe no conteúdo HTML do site.
 
 <p align="center">
-  <img src="../images/exemplo-pseudo-elemento.png" width:"300">
+  <img src="../images/exemplo-pseudo-elemento.png" width:"150" heigth="200">
 </p>
 
 Resultado:
